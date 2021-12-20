@@ -2,3 +2,5 @@ buil/
 Library/
 Logs/
 Packages/
+
+.DS_Store
